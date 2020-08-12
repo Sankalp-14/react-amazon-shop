@@ -1,0 +1,21 @@
+.header__second {
+    background-color: rgb(65, 77, 94);
+    width: 100%;
+    height: 30px;
+    top: 0;
+    
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center;
+    margin-left: 10px;
+    margin-right: 10px; */
+}
+
+.header__secnav {
+    color: darkgray;
+    text-decoration: none;
+    /* flex-direction: column; */
+}
